@@ -1,5 +1,5 @@
 from django.test import TestCase
-from .models import BucketList
+from ..models import BucketList
 
 # Create your tests here.
 
